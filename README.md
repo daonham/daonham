@@ -4,7 +4,7 @@
   </h2>
 </div>
 
-<a href="https://app.daily.dev/DailyDevTips">
+<a href="https://app.daily.dev/Joyce">
   <img align="right" src="https://github.com/daonham/daonham/blob/main/devcard.svg" width="256" alt="Joyce's Dev Card"/>
 </a>
 
