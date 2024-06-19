@@ -22,6 +22,7 @@
 - **CSS**: TailwindCSS, CSS Modules.
 - **Server**: NodeJS, ExpressJS, Golang.
 - **SQL**: MySQL, MongoDB.
+- **Components**: Shadcn/ui, Radix UI, HeadlessUI, MUI, Antd, Mantine.
 - **CI/CD**: Git Actions.
 - **Deloy**: Linux (Nginx, Apache)
 - **Best packages**: Zod, React Hook Form, Framer Motion, Drizzle ORM, Next Auth, SWR...
