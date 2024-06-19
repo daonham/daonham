@@ -17,4 +17,4 @@
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
-ReactJS | NextJS | TailwindCSS | NodeJS | Redux | Redux Toolkit | ExpressJS | MySQL | MongoDB | RESTful APIs | GitHub Actions | Linux
+ReactJS | NextJS | React Native | Redux | Redux Toolkit | TailwindCSS | CSS Modules | NodeJS| ExpressJS | Golang | MySQL | MongoDB | RESTful APIs | Drizzle ORM | Zod | React Hook Form | GitHub Actions | Linux Basics (Nginx, Apache) 
