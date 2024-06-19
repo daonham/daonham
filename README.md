@@ -17,4 +17,12 @@
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
-ReactJS | NextJS | React Native | Redux | Redux Toolkit | TailwindCSS | CSS Modules | NodeJS| ExpressJS | Golang | MySQL | MongoDB | RESTful APIs | Drizzle ORM | Zod | React Hook Form | GitHub Actions | Linux Basics (Nginx, Apache) 
+### Skills:
+- **ReactJS, NextJS, React Native, Redux, Redux Toolkit, Vite.**
+- **CSS**: TailwindCSS, CSS Modules.
+- **Server**: NodeJS, ExpressJS, Golang.
+- **SQL**: MySQL, MongoDB.
+- **CI/CD**: Git Actions.
+- **Deloy**: Linux (Nginx, Apache)
+- **Best packages**: Zod, React Hook Form, Framer Motion, Drizzle ORM, Next Auth, SWR...
+
