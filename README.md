@@ -17,4 +17,4 @@
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
-WordPress | WooCommerce | ReactJS | NextJS | TailwindCSS
+ReactJS | NextJS | TailwindCSS | NodeJS | Redux | Redux Toolkit | ExpressJS | MySQL | MongoDB | RESTful APIs | GitHub Actions | Linux
