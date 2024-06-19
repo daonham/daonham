@@ -23,7 +23,7 @@
 - **Server**: NodeJS, ExpressJS, Golang.
 - **SQL**: MySQL, MongoDB.
 - **Components**: Shadcn/ui, Radix UI, HeadlessUI, MUI, Antd, Mantine.
-- **CI/CD**: Git Actions.
+- **CI/CD**: GitHub Actions.
 - **Deloy**: Linux (Nginx, Apache)
 - **Best packages**: Zod, React Hook Form, Framer Motion, Drizzle ORM, Next Auth, SWR...
 - **NextJS**: App Route, Server Component, Suspense, API, Dynamic Route, Cache, Meta Data, PPR, Next-Auth....
