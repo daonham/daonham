@@ -19,12 +19,12 @@
 
 ### Skills:
 - **ReactJS, NextJS, React Native, Redux, Redux Toolkit, Vite.**
-- **CSS**: TailwindCSS, CSS Modules.
-- **Backend**: NodeJS, ExpressJS, Golang.
+- **CSS**: TailwindCSS, CSS Modules...
+- **Backend**: NodeJS, NestJS, ExpressJS, Golang.
 - **SQL**: MySQL, MongoDB.
 - **Components**: Shadcn/ui, Radix UI, HeadlessUI, MUI, Antd, Mantine.
 - **CI/CD**: GitHub Actions.
-- **Server**: Linux (Nginx, Apache)
+- **Server**: Linux (Nginx, Apache), Docker
 - **Best packages**: Zod, React Hook Form, Framer Motion, Drizzle ORM, Next Auth, SWR...
 - **NextJS**: App Route, Server Component, Suspense, API, Dynamic Route, Cache, Meta Data, PPR, Next-Auth....
 
