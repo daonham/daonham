@@ -18,7 +18,7 @@
 </p>
 
 ### Skills:
-- **ReactJS, NextJS, Remix, NestJS, ExpressJs, React Native, Expo, Redux, Redux Toolkit, Vite.**
+- **ReactJS, NextJS, Remix, NestJS, ExpressJS, React Native, Expo, Redux, Redux Toolkit, Vite...**
 - **CSS**: TailwindCSS, CSS Modules...
 - **Backend**: NodeJS, NestJS, ExpressJS, Golang.
 - **SQL**: MySQL, MongoDB.
