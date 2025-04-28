@@ -4,9 +4,7 @@
   </h2>
 </div>
 
-<a href="https://app.daily.dev/Joyce">
-  <img align="right" src="https://github.com/daonham/daonham/blob/main/devcard.svg" width="256" alt="Joyce's Dev Card"/>
-</a>
+<a href="https://app.daily.dev/joyce"><img src="https://api.daily.dev/devcards/v2/Wx3WWC3HR.png?r=e9y" width="356" alt="Joyce's Dev Card"/></a>
 
 <a>
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=daonham&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
